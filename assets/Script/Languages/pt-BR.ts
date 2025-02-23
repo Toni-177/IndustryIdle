@@ -1214,7 +1214,7 @@ export const PT_BR = {
     Sandwich: "Sanduíche",
     StandbyMode: "Modo de espera",
     StandbyModeDesc:
-        "O jogo continuará sendo executado em segundo plano,mas não renderizará nenhum gráfico(Seu PC agradeçe). Isso reduzirá significativamente o uso da GPU (Placa de vídeo) e o uso da CPU(Processador) também",
+        "O jogo continuará sendo executado em segundo plano,mas não renderizará nenhum gráfico(Seu PC agradeçe). Isso reduzirá significativamente o uso da GPU(Placa de vídeo) e o uso da CPU(Processador).",
     StandbyModeOn: "Modo de espera",
     StandbyModeOnDesc: "O jogo está rodando em segundo plano. Toque em qualquer lugar para sair do modo de espera ou aprecie essa tela preta :D...",
     PigFarm: "Fazenda de Porco",
